@@ -1,0 +1,2 @@
+[Tue Aug 04 12:09:36 2015] [error] [client 192.168.33.1] Directory index forbidden by Options directive: /www/
+[Tue Aug 04 12:09:37 2015] [error] [client 192.168.33.1] script '/www/index.php' not found or unable to stat, referer: http://project.local/
